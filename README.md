@@ -135,7 +135,7 @@ Full results: [results/](results/).
 
 ## Design notes
 
-- **Why NIH RePORTER.** The API is free, requires no auth, and the data — federal biomedical research grants — is directly in the science-of-science problem space (relevant for CSET-style analysis).
+- **Why NIH RePORTER.** The API is free, requires no auth, and the data (federal biomedical research grants) is directly in the science-of-science problem space (relevant for CSET-style analysis).
 - **Two SQL dialects, one analytical contract.** [sql/sqlite/](sql/sqlite/) and [sql/bq/](sql/bq/) hold parallel queries. The two diverge only on dialect-specific features (`ANY_VALUE`, `UNNEST`, etc.). Comparing the two files is the simplest possible audit of the cloud path.
 - **`WRITE_TRUNCATE` over `WRITE_APPEND`.** The BQ load is idempotent — re-running it overwrites the destination table. The local snapshot is the source of truth.
 - **Credentials never committed.** `.gitignore` excludes `service-account*.json` and anything matching `gcp-credentials*.json`.
