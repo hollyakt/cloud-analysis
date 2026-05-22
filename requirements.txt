@@ -1,0 +1,8 @@
+requests>=2.31
+pandas>=2.0
+matplotlib>=3.7
+
+# Cloud path. The local path runs without these.
+google-cloud-bigquery>=3.13
+db-dtypes>=1.2          # pandas-friendly BQ result types
+pyarrow>=14.0

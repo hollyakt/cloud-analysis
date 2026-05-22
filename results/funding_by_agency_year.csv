@@ -1,0 +1,97 @@
+fiscal_year,agency_ic_code,agency_ic_name,n_projects,total_award_millions,cumulative_millions
+2020,AI,National Institute of Allergy and Infectious Diseases,59,30.61,30.61
+2020,CA,National Cancer Institute,61,29.43,29.43
+2020,HL,National Heart Lung and Blood Institute,57,26.73,26.73
+2020,AG,National Institute on Aging,21,21.11,21.11
+2020,GM,National Institute of General Medical Sciences,49,20.14,20.14
+2020,DK,National Institute of Diabetes and Digestive and Kidney Diseases,35,17.61,17.61
+2020,NS,National Institute of Neurological Disorders and Stroke,18,14.38,14.38
+2020,OD,NIH Office of the Director,6,13.46,13.46
+2020,HD,Eunice Kennedy Shriver National Institute of Child Health and Human Development,21,10.53,10.53
+2020,DA,National Institute on Drug Abuse,17,7.78,7.78
+2020,MH,National Institute of Mental Health,18,6.83,6.83
+2020,EY,National Eye Institute,16,5.82,5.82
+2020,AR,National Institute of Arthritis and Musculoskeletal and Skin Diseases,17,5.44,5.44
+2020,ES,National Institute of Environmental Health Sciences,10,5.38,5.38
+2020,EB,National Institute of Biomedical Imaging and Bioengineering,11,4.38,4.38
+2020,DC,National Institute on Deafness and Other Communication Disorders,6,1.95,1.95
+2020,AA,National Institute on Alcohol Abuse and Alcoholism,5,1.58,1.58
+2020,TR,National Center for Advancing Translational Sciences,2,1.36,1.36
+2020,HG,National Human Genome Research Institute,2,0.89,0.89
+2020,TW,John E. Fogarty International Center for Advanced Study in the Health Sciences,3,0.79,0.79
+2020,DE,National Institute of Dental and Craniofacial Research,2,0.71,0.71
+2020,AT,National Center for Complementary and Integrative Health,2,0.7,0.7
+2020,NR,National Institute of Nursing Research,1,0.19,0.19
+2020,MD,National Institute on Minority Health and Health Disparities,1,0.15,0.15
+2021,AI,National Institute of Allergy and Infectious Diseases,60,34.1,64.71
+2021,CA,National Cancer Institute,67,23.97,53.41
+2021,AG,National Institute on Aging,24,20.36,41.47
+2021,GM,National Institute of General Medical Sciences,50,20.26,40.4
+2021,HL,National Heart Lung and Blood Institute,48,19.77,46.51
+2021,DK,National Institute of Diabetes and Digestive and Kidney Diseases,33,16.6,34.22
+2021,NS,National Institute of Neurological Disorders and Stroke,23,16.17,30.55
+2021,OD,NIH Office of the Director,4,10.54,24.0
+2021,HD,Eunice Kennedy Shriver National Institute of Child Health and Human Development,21,10.02,20.55
+2021,MH,National Institute of Mental Health,16,9.06,15.9
+2021,DA,National Institute on Drug Abuse,23,7.86,15.64
+2021,AR,National Institute of Arthritis and Musculoskeletal and Skin Diseases,23,7.01,12.46
+2021,ES,National Institute of Environmental Health Sciences,14,5.84,11.22
+2021,EY,National Eye Institute,16,5.64,11.47
+2021,EB,National Institute of Biomedical Imaging and Bioengineering,10,3.91,8.29
+2021,TW,John E. Fogarty International Center for Advanced Study in the Health Sciences,8,2.77,3.56
+2021,AA,National Institute on Alcohol Abuse and Alcoholism,7,2.76,4.34
+2021,HG,National Human Genome Research Institute,5,2.67,3.56
+2021,DC,National Institute on Deafness and Other Communication Disorders,6,1.59,3.54
+2021,DE,National Institute of Dental and Craniofacial Research,3,0.79,1.5
+2021,LM,National Library of Medicine,1,0.36,0.36
+2021,NR,National Institute of Nursing Research,1,0.3,0.49
+2021,AT,National Center for Complementary and Integrative Health,1,0.27,0.97
+2021,MD,National Institute on Minority Health and Health Disparities,1,0.15,0.3
+2022,AI,National Institute of Allergy and Infectious Diseases,60,36.27,100.98
+2022,AG,National Institute on Aging,31,28.5,69.97
+2022,CA,National Cancer Institute,73,26.8,80.21
+2022,GM,National Institute of General Medical Sciences,51,20.71,61.11
+2022,HL,National Heart Lung and Blood Institute,49,20.31,66.82
+2022,DK,National Institute of Diabetes and Digestive and Kidney Diseases,31,15.16,49.38
+2022,OD,NIH Office of the Director,7,14.12,38.12
+2022,NS,National Institute of Neurological Disorders and Stroke,22,11.92,42.47
+2022,HD,Eunice Kennedy Shriver National Institute of Child Health and Human Development,23,10.92,31.47
+2022,DA,National Institute on Drug Abuse,23,10.43,26.08
+2022,MH,National Institute of Mental Health,16,7.93,23.83
+2022,AR,National Institute of Arthritis and Musculoskeletal and Skin Diseases,18,6.21,18.67
+2022,EY,National Eye Institute,16,5.21,16.67
+2022,HG,National Human Genome Research Institute,5,5.2,8.76
+2022,EB,National Institute of Biomedical Imaging and Bioengineering,8,4.11,12.4
+2022,AA,National Institute on Alcohol Abuse and Alcoholism,7,3.29,7.63
+2022,TW,John E. Fogarty International Center for Advanced Study in the Health Sciences,11,3.05,6.61
+2022,ES,National Institute of Environmental Health Sciences,7,1.79,13.01
+2022,DC,National Institute on Deafness and Other Communication Disorders,8,1.59,5.13
+2022,DE,National Institute of Dental and Craniofacial Research,3,1.5,3.0
+2022,MD,National Institute on Minority Health and Health Disparities,4,0.55,0.85
+2022,AT,National Center for Complementary and Integrative Health,2,0.47,1.43
+2022,LM,National Library of Medicine,2,0.39,0.75
+2022,NR,National Institute of Nursing Research,1,0.05,0.53
+2023,AI,National Institute of Allergy and Infectious Diseases,65,39.28,140.26
+2023,CA,National Cancer Institute,74,30.16,110.37
+2023,GM,National Institute of General Medical Sciences,57,23.03,84.14
+2023,HL,National Heart Lung and Blood Institute,51,21.41,88.23
+2023,AG,National Institute on Aging,31,18.77,88.73
+2023,DA,National Institute on Drug Abuse,22,14.53,40.61
+2023,NS,National Institute of Neurological Disorders and Stroke,26,14.04,56.52
+2023,DK,National Institute of Diabetes and Digestive and Kidney Diseases,32,12.09,61.47
+2023,HD,Eunice Kennedy Shriver National Institute of Child Health and Human Development,25,9.63,41.1
+2023,MH,National Institute of Mental Health,16,6.23,30.05
+2023,AR,National Institute of Arthritis and Musculoskeletal and Skin Diseases,16,6.01,24.68
+2023,EY,National Eye Institute,12,4.73,21.4
+2023,HG,National Human Genome Research Institute,3,4.06,12.82
+2023,TW,John E. Fogarty International Center for Advanced Study in the Health Sciences,13,3.56,10.16
+2023,EB,National Institute of Biomedical Imaging and Bioengineering,10,3.49,15.89
+2023,AA,National Institute on Alcohol Abuse and Alcoholism,8,2.89,10.52
+2023,ES,National Institute of Environmental Health Sciences,9,2.68,15.69
+2023,DE,National Institute of Dental and Craniofacial Research,5,1.7,4.7
+2023,OD,NIH Office of the Director,4,1.64,39.76
+2023,NR,National Institute of Nursing Research,3,1.39,1.92
+2023,MD,National Institute on Minority Health and Health Disparities,6,1.02,1.87
+2023,DC,National Institute on Deafness and Other Communication Disorders,2,0.63,5.76
+2023,AT,National Center for Complementary and Integrative Health,2,0.54,1.97
+2023,LM,National Library of Medicine,2,0.39,1.14
